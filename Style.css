@@ -1,0 +1,106 @@
+body{
+  padding-top: 20px;
+  font-family: 'Open Sans', sans-serif;
+  background-image: url(back.jpg);
+  background-size: cover;
+  box-sizing: border-box;
+  }
+
+.contenitore-nero{
+  padding-top: 53px;
+  width: 820px;
+  height: 560px;
+  box-sizing: border-box;
+  margin: auto;
+  background-color: rgba(11,0,0,0.5);
+  border-radius: 15px;
+}
+
+.logo{
+  width: 180px; height: auto;
+  margin-left: 330px;
+}
+
+.logo-text{
+  width: 290px;
+  margin: auto;
+  color:LimeGreen;
+  font-weight: bold;
+  font-size: 20px;
+}
+nav{
+  width: 690px;
+  height: 30px;
+  margin:auto;
+  box-sizing: border-box;
+  padding-left: 220px;
+  background-color: #00DD00;
+}
+
+.contenitore-input{
+  width: 425px;
+  height: 10px;
+  padding-top: 1px;
+  margin:auto;
+
+}
+
+input[type="text"]{
+  font-size:8px;
+}
+
+.input-corti {
+  width: 30px;
+  font-weight: bold;
+}
+.input-medi{
+  width: 50px;
+  font-weight: bold;
+}
+.input-lunghi{
+  width: 85px;
+  font-weight: bold;
+}
+
+main{
+/* Formatta le <Selection> */
+  width: 690px;
+  margin:auto;
+  Color: white;
+}
+
+.title{
+  display: inline-block;
+}
+
+p{
+  /* So che non andrebbe fatto, ma non trovo una soluzione alternativa */
+margin-top:-13px;
+font-size: 11px;
+}
+
+.barra-1{
+  width: 250px;
+  height: 20px;
+  box-sizing: border-box;
+  background-color: #F5B453;
+  border-radius: 5px;
+  margin-top:-10px;
+}
+
+.barra-2{
+  width: 415px;
+  height: 20px;
+  box-sizing: border-box;
+  background-color: #1EC31E;
+  border-radius: 5px;
+  margin-top:-10px;
+}
+.barra-3{
+  width: 100px;
+  height: 20px;
+  box-sizing: border-box;
+  background-color: #BE4141;
+  border-radius: 5px;
+  margin-top:-10px;
+}
