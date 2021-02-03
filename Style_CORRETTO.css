@@ -1,0 +1,122 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-color: white;
+  background-image: url(back.jpg);
+  background-size: cover;
+  padding-top: 12px;
+  }
+
+
+.contenitore-nero{
+  width: 820px;
+  height: 580px;
+  box-sizing: border-box;
+  margin: auto;
+  background-color: rgba(11,0,0,0.5);
+  border-radius: 15px;
+
+}
+.DivLogo{
+  height: 129px
+}
+.logo{
+  width: 180px;
+  height: auto;
+  margin-left: 330px;
+  margin-top:61px;
+}
+
+.correzione{
+height: 30px;
+}
+.logo-text{
+  /* width: 290px;
+  margin: auto; */
+  height: 30px;
+  text-align: center;
+  color:LimeGreen;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.aiuto{
+  height: 20px;
+}
+nav{
+  width: 690px;
+  height: 30px;
+  margin:auto;
+  box-sizing: border-box;
+  padding-left: 220px;
+  background-color: #00DD00;
+}
+
+.contenitore-input{
+  width: 425px;
+  padding-top: 1px;
+  margin:auto;
+  }
+
+input[type="text"]{
+  font-size:8px;
+}
+
+.input-corti {
+  width: 30px;
+  font-weight: bold;
+}
+.input-medi{
+  width: 50px;
+  font-weight: bold;
+}
+.input-lunghi{
+  width: 85px;
+  font-weight: bold;
+}
+
+main{
+/* Formatta le <Selection> */
+  width: 690px;
+  margin:auto;
+  Color: white;
+}
+
+section.sezione{
+  height: 90px;
+}
+
+.bella{
+  height: 35px;
+}
+h4.title{
+  display: inline-block;
+}
+
+section p{
+font-size: 11px;
+height: 5px;
+}
+
+.barra-1{
+  width: 250px;
+  height: 20px;
+  box-sizing: border-box;
+  background-color: #F5B453;
+  border-radius: 5px;
+
+}
+
+.barra-2{
+  width: 415px;
+  height: 20px;
+  box-sizing: border-box;
+  background-color: #1EC31E;
+  border-radius: 5px;
+}
+.barra-3{
+  width: 100px;
+  height: 20px;
+  box-sizing: border-box;
+  background-color: #BE4141;
+  border-radius: 5px;
+}
